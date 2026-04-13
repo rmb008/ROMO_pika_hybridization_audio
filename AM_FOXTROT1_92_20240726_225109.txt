@@ -1,5 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
-1	Spectrogram 1	1	7.712307029	31.089522857	2703.749	3655.100	23.3772	951.351	-49.91	July 26, 2024; 16:50:40 MDT; Facing [?]; AudioMoth Foxtrot1;[?] Fairchild Mountain, north of the Long Lake area in Rocky Mountain National Park; Near a fresh hay pile
-2	Spectrogram 1	1	662.040080953	662.279782655	0.000	13038.884	0.2397	13038.884	-61.16	[P]
-3	Spectrogram 1	1	1018.465831473	1018.712796863	0.000	11446.154	0.2470	11446.154	-71.54	[P]
-4	Spectrogram 1	1	3503.875759294	3516.471626870	2833.479	4260.506	12.5959	1427.027	-44.64	Retrieving AudioMoth Foxtrot1; [?]
