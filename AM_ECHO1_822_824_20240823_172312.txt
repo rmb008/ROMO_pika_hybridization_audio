@@ -1,7 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
-1	Spectrogram 1	1	8.397739655	20.506899640	764.402	1590.313	12.1092	825.911	-39.09	Audiomoth Echo1; 11:22 MDT; August 23, 2024
-2	Spectrogram 1	1	22.858854223	54.973527069	3290.718	4553.875	32.1147	1263.157	-45.55	Off the Thunder Pass Trail, coming in from the American Lakes Trailhead, 600-700 meters from [?] Thunder Pass Trail
-3	Spectrogram 1	1	2173.671446134	2174.007946827	0.000	13007.317	0.3365	13007.317	-65.56	[P]
-4	Spectrogram 1	1	2779.459579514	2779.805815305	0.000	11452.661	0.3462	11452.661	-72.63	[P]
-5	Spectrogram 1	1	3419.127007455	3419.464047593	0.000	12482.574	0.3370	12482.574	-69.95	[P]
-6	Spectrogram 1	1	10000.260126737	10000.542469674	0.000	4893.956	0.2823	4893.956	-69.88	[P]
