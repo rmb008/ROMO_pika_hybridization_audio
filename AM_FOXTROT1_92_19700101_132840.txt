@@ -1,6 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
-1	Spectrogram 1	1	35.936103594	55.133702503	2575.630	6016.971	19.1976	3441.341	-52.85	AudioMoth Foxtrot1; September 2, 2024; 11:18:50 MDT; 443996 4488197; Around [Emalene?] Lake
-2	Spectrogram 1	1	2646.942444214	2647.428295758	0.000	24000.000	0.4859	24000.000	-48.10	[P]
-3	Spectrogram 1	1	3135.675358875	3136.079245641	0.000	12201.117	0.4039	12201.117	-69.52	[P]
-4	Spectrogram 1	1	3140.179200999	3140.476565227	0.000	12648.045	0.2974	12648.045	-68.05	[P]
-5	Spectrogram 1	1	6680.775429653	6689.517464994	3083.799	5005.587	8.7420	1921.788	-42.80	Retrieving AudioMoth Foxtrot1; September 2, 2024; 13:0[?]
