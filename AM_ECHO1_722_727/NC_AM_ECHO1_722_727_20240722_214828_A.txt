@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	8.428647177	27.328270012	2516.146	4806.405	18.8996	2290.258	-47.01	[?] Audiomoth Echo1; 15:48 MDT; [September?] 2nd, 2024; Left side of [?] Fall River Road, descending from Alpine Visiting Centre 
+2	Spectrogram 1	1	2329.429856992	2339.174660717	3947.558	5426.683	9.7448	1479.125	-48.58	16:26:41 MDT; July 22nd, 2024; Ending Audiomoth Echo1

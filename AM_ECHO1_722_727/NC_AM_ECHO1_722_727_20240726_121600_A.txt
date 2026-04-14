@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	15057.772301471	15117.113557064	845.344	2691.498	59.3413	1846.154	-71.17	[?]
+2	Spectrogram 1	1	20278.545480792	20288.864716325	4731.984	6626.721	10.3192	1894.737	-46.51	Audiomoth Echo1; Turning off at 11:53:20 MDT; July 26, 2024

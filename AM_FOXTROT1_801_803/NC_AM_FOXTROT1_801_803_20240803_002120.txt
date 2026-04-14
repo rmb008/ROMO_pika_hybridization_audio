@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	0.083968757	23.632540153	1840.558	2823.798	23.5486	983.240	-39.68	AudioMoth Foxtrot1; [?]; Near [Trail?] Ridge road, [?] old hay pile; [?]; August 2, 2024; 18:21 MDT 
+2	Spectrogram 1	1	39.065509960	44.616777781	2376.870	3672.960	5.5513	1296.089	-62.58	430846 4474196
+3	Spectrogram 1	1	2729.505062542	2753.688545883	2555.641	3538.882	24.1835	983.240	-45.76	Retrieving AudioMoth Foxtrot1l; August 2, 2024; 19:06:27 MDT; South Sheep Rock 

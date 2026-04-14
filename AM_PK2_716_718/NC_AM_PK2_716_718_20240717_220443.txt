@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	7.707860339	24.003402676	2545.248	3193.897	16.2955	648.649	-45.45	 AudioMoth PK2; Around [?] Mountain; July 14, 2024; 16:04 MDT 
+2	Spectrogram 1	1	52.003662511	58.756351967	2026.329	2069.572	6.7527	43.243	-73.01	439917 4476386 
+3	Spectrogram 1	1	5450.552918196	5462.442933040	1810.113	3496.599	11.8900	1686.486	-46.96	Retrieving AudioMoth PK2; 17:34 MDT; Around Chappin Pass 

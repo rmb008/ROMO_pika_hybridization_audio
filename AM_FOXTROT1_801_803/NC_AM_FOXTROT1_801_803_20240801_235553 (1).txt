@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	12.486309706	26.151143440	1771.161	3022.557	13.6648	1251.397	-40.93	AudioMoth Foxtrot1; [?]; Little bit before Lake Eileen
+2	Spectrogram 1	1	38.667950065	50.243867515	1681.775	2933.172	11.5759	1251.397	-45.34	August 1, 2024; 17:56:23 MDT; 432528 4475399
+3	Spectrogram 1	1	1429.873878420	1434.550077461	2173.395	4318.647	4.6762	2145.251	-48.51	Retrieving AudioMoth Foxtrot1

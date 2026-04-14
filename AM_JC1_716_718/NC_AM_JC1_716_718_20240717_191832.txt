@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	16.373369167	40.919120164	2357.803	3265.911	24.5458	908.108	-39.14	AudioMoth JC1; Little off Chappin Pass Trail; 438424 4476362; 13:19 MDT; July 17, 2024
+2	Spectrogram 1	1	46.670260445	48.860133105	1882.127	3006.452	2.1899	1124.324	-35.30	Rain and light hail
+3	Spectrogram 1	1	3723.775868195	3729.975074333	3568.614	4044.290	6.1992	475.676	-44.94	 Retrieving AudioMoth JC1

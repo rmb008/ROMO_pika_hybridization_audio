@@ -1,0 +1,2 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	63.532553531	76.493791940	3082.651	4336.705	12.9612	1254.054	-59.10	 AudioMoth PK2; July 26, 2024; 19:10 MDT; Around Sheep Rock 

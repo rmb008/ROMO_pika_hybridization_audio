@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	2.307044758	17.296851177	1994.624	3201.328	14.9898	1206.704	-48.91	AudioMoth Echo1; September 16, 2024; 9:15:51 MDT; Near [?]
+2	Spectrogram 1	1	3571.758637014	3585.095345169	1949.932	3827.026	13.3367	1877.095	-56.54	Retrieving AudioMoth Echo1; 10:15:51; September 16
